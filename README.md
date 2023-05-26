@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **alejandroriosmunoz14@gmail.com**
 
-- 📄 Know about my experiences [I have nearly 3 years of experience in the field, I have found my true calling. I genuinely enjoy what I do and find immense satisfaction in it.](I have nearly 3 years of experience in the field, I have found my true calling. I genuinely enjoy what I do and find immense satisfaction in it.)
+- 📄 Know about my experiences:  I genuinely enjoy what I do and find immense satisfaction in it. My expertise lies primarily in backend development with C#, although I also excel in frontend development using web frameworks such as Angular and React. I take great pleasure in tackling complex challenges and bringing innovative solutions to the table.
 
 <p align="left">
 </p>
