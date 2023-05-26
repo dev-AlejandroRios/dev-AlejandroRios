@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [I have nearly 3 years of experience in the field, I have found my true calling. I genuinely enjoy what I do and find immense satisfaction in it.](I have nearly 3 years of experience in the field, I have found my true calling. I genuinely enjoy what I do and find immense satisfaction in it.)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
